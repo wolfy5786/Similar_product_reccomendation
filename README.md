@@ -1,6 +1,3 @@
-Absolutely! Here's a clean and professional `README.md` for your project involving vector embeddings, K-Means, and SingleStore:
-
----
 
 # 🧠 Product Similarity with Vector Embeddings & K-Means Clustering
 
